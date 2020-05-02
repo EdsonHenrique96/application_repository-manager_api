@@ -1,7 +1,7 @@
 # Repository Manager
 
 Uma API REST, que tem como finalidade o gerenciamento de repositórios do github.
-Com ela você pode Criar, Editar, listar, Deletar e dar likes nos seus repositórios.
+Com ela você pode criar, editar, listar, deletar e dar likes nos seus repositórios.
 
 Nota: Não há persistência de dados e todos seus dados ficam em memória.
 
@@ -9,7 +9,7 @@ Nota: Não há persistência de dados e todos seus dados ficam em memória.
 
 1. Clone o repositório para o seu ambiente
 ```bash
-git clone ${repositoryDownloadURL}
+git clone git@github.com:EdsonHenrique96/repository-manager.git
 ```
 
 2. Instale as depedências
