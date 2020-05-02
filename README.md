@@ -22,7 +22,7 @@ yarn install
 ```bash
 yarn dev
 ```
-Obs: Por padrão a aplicação ficará disponível na port 3333 do seu localhost. Acesse http://localhost:3333
+Obs: Por padrão a aplicação ficará disponível na porta 3333 do seu localhost. Acesse http://localhost:3333
 
 ## Rotas
 
@@ -73,7 +73,7 @@ POST /repositories/:id/like
 No request body
 ```
 
-Se você usa curl, temos algumas requisões prontas [curl - Request exemples](https://github.com/EdsonHenrique96/repository-manager/blob/master/auxiliary-tools/curl/request-exemples.md  )
+Se você usa curl, temos algumas requisições prontas [curl - request exemples](https://github.com/EdsonHenrique96/repository-manager/blob/master/auxiliary-tools/curl/request-exemples.md  )
 ## Testes
 
 Para rodar os teste funcionais
